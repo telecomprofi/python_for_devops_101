@@ -29,7 +29,5 @@
 ## Google python coding guidelines
 * [Link to document]( tba )
 
-
-##
- ### Exmample of Python 3.x use for running shell commands as opposed to 2.x subprocess.call() 
-  ## [pyls3.py](tba)  
+### Exmample of Python 3.x use for running shell commands as opposed to 2.x subprocess.call() 
+## [pyls3.py](https://github.com/telecomprofi/python_for_devops_101/blob/main/pyls3.py)  
