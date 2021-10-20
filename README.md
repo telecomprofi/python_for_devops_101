@@ -31,3 +31,8 @@
 
 ### Exmample of Python 3.x use for running shell commands as opposed to 2.x subprocess.call() 
 ## [pyls3.py](https://github.com/telecomprofi/python_for_devops_101/blob/main/pyls3.py)  
+
+
+### How to secure python development with bandit (Open-Source security scan tool)
+## [Link to how to doc](https://soshace.com/how-to-secure-python-web-app-using-bandit/)
+
