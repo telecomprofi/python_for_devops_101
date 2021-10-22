@@ -1,5 +1,8 @@
 ### Python scripting for DevOps 101 
 
+### Getting starting with Python in VScode
+* [Linkt to article](https://code.visualstudio.com/docs/python/python-tutorial)
+
 
 ### How to install python2 or python3 on RHEL 8
 * [Link to the article](https://www.tecmint.com/install-python-in-rhel-8/#:%7E:text=Although%20Python%20is%20not%20installed,is%20used%20by%20system%20tools)
