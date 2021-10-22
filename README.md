@@ -20,6 +20,7 @@ OR
 ```
 # alternatives --set python /usr/bin/python2
 ```
+![image](https://user-images.githubusercontent.com/17558124/138422796-0a621f63-f8d7-4ed2-9a93-402c0c197e57.png)
 ____
 
 ## simple script to open file, write string, close file
