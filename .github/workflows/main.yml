@@ -32,6 +32,7 @@ jobs:
           SOMEVAR : "TestEnvVarValue"
         run: | 
           echo Hello, world!
+          
           echo "step level env var somebar = " ${{ env.SOMEVAR }}
           python --version
           aws --version
@@ -39,7 +40,13 @@ jobs:
           uname -a
           cat /etc/*release*
           whoami
-          
+  test:
+    runs_on: macos
+    steps:
+      - name: Checking xcodebuild version
+        run: /usr/bin/xcodebuild -version
+      
+  
           
 
       # Runs a set of commands using the runners shell
