@@ -29,7 +29,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         env:
-        SOMEVAR: TestEnvVarValue
+          SOMEVAR : "TestEnvVarValue"
         run: | 
           echo Hello, world!
           echo "step level env var somebar = " ${{ env.SOMEVAR }}
